@@ -8,6 +8,7 @@ library("ggplot2")
 library("grid")
 library(tidyverse)
 
+# JUMP to #4
 # 2) Dataset ---------------------------------------
 # Generate 5000 random numbers from a normal distribution
 set.seed(123)  
