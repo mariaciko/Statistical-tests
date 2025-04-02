@@ -1,4 +1,3 @@
-# Statistical-tests
 ## Question 1: Are there significant differences in hyperdrive ratings between starships from different manufacturers?
 
 Using the [starships.csv file](https://github.com/mariaciko/Statistical-tests/blob/main/starships.csv) from the [Star Wars Dataverse](https://www.kaggle.com/datasets/jsphyg/star-wars), we aim to answer the above question by implementing statistical tests including one-way ANOVA, Kruskal-Wallis, Pearson and Spearman correlation tests between variables hyperdrive_rating and max_atmosphering_speed, and running linear regression. The R script is [project-1.R](https://github.com/mariaciko/Statistical-tests/blob/main/project-1.R).
