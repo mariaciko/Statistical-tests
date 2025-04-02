@@ -1,0 +1,7 @@
+
+	Asymptotic one-sample Kolmogorov-Smirnov test
+
+data:  df_filtered$hyperdrive_rating
+D = 0.25448, p-value = 0.05322
+alternative hypothesis: two-sided
+

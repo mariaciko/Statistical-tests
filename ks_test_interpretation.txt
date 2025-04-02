@@ -1,0 +1,3 @@
+Interpretation of the KS Test:
+The Kolmogorov-Smirnov (KS) test is used to assess whether the hyperdrive_rating variable follows a normal distribution.
+A p-value < 0.05 would suggest that the distribution significantly deviates from normality. If the p-value is larger, we cannot reject the assumption of normality.

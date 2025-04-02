@@ -1,0 +1,12 @@
+
+	Pearson's product-moment correlation
+
+data:  df_corr$hyperdrive_rating and df_corr$max_atmosphering_speed
+t = -3.3833, df = 37, p-value = 0.001705
+alternative hypothesis: true correlation is not equal to 0
+95 percent confidence interval:
+ -0.6950082 -0.2014637
+sample estimates:
+       cor 
+-0.4860828 
+

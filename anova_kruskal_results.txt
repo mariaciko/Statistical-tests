@@ -1,0 +1,12 @@
+
+	One-way analysis of means
+
+data:  hyperdrive_rating and manufacturer
+F = 0.87573, num df = 7, denom df = 20, p-value = 0.5423
+
+
+	Kruskal-Wallis rank sum test
+
+data:  hyperdrive_rating by manufacturer
+Kruskal-Wallis chi-squared = 9.0278, df = 7, p-value = 0.2507
+

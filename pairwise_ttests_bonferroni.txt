@@ -1,0 +1,55 @@
+
+	Pairwise comparisons using t tests with pooled SD 
+
+data:  df_filtered$hyperdrive_rating and df_filtered$manufacturer 
+
+                                            Colla Designs, Phlac-Arphocc Automata Industries
+Corellian Engineering Corporation           1                                               
+Free Dac Volunteers Engineering Corps       1                                               
+Huppla Pasa Tisc Shipwrights Collective     1                                               
+Kuat Drive Yards                            1                                               
+Kuat Systems Engineering                    1                                               
+Sienar Fleet Systems                        1                                               
+Theed Palace Space Vessel Engineering Corps 1                                               
+                                            Corellian Engineering Corporation
+Corellian Engineering Corporation           -                                
+Free Dac Volunteers Engineering Corps       1                                
+Huppla Pasa Tisc Shipwrights Collective     1                                
+Kuat Drive Yards                            1                                
+Kuat Systems Engineering                    1                                
+Sienar Fleet Systems                        1                                
+Theed Palace Space Vessel Engineering Corps 1                                
+                                            Free Dac Volunteers Engineering Corps
+Corellian Engineering Corporation           -                                    
+Free Dac Volunteers Engineering Corps       -                                    
+Huppla Pasa Tisc Shipwrights Collective     1                                    
+Kuat Drive Yards                            1                                    
+Kuat Systems Engineering                    1                                    
+Sienar Fleet Systems                        1                                    
+Theed Palace Space Vessel Engineering Corps 1                                    
+                                            Huppla Pasa Tisc Shipwrights Collective
+Corellian Engineering Corporation           -                                      
+Free Dac Volunteers Engineering Corps       -                                      
+Huppla Pasa Tisc Shipwrights Collective     -                                      
+Kuat Drive Yards                            1                                      
+Kuat Systems Engineering                    1                                      
+Sienar Fleet Systems                        1                                      
+Theed Palace Space Vessel Engineering Corps 1                                      
+                                            Kuat Drive Yards Kuat Systems Engineering
+Corellian Engineering Corporation           -                -                       
+Free Dac Volunteers Engineering Corps       -                -                       
+Huppla Pasa Tisc Shipwrights Collective     -                -                       
+Kuat Drive Yards                            -                -                       
+Kuat Systems Engineering                    1                -                       
+Sienar Fleet Systems                        1                1                       
+Theed Palace Space Vessel Engineering Corps 1                1                       
+                                            Sienar Fleet Systems
+Corellian Engineering Corporation           -                   
+Free Dac Volunteers Engineering Corps       -                   
+Huppla Pasa Tisc Shipwrights Collective     -                   
+Kuat Drive Yards                            -                   
+Kuat Systems Engineering                    -                   
+Sienar Fleet Systems                        -                   
+Theed Palace Space Vessel Engineering Corps 1                   
+
+P value adjustment method: bonferroni 

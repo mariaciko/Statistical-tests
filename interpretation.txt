@@ -1,0 +1,4 @@
+Interpretation:
+1. ANOVA Results: The ANOVA test indicated no significant difference in hyperdrive ratings across different manufacturers (p-value > 0.05).
+2. Pairwise T-tests: Pairwise t-tests further examine differences between each pair of manufacturers. Adjustments with Bonferroni and Benjamini-Hochberg methods control for false positives due to multiple comparisons.
+3. Kruskal-Wallis Test: Similar to the ANOVA, the Kruskal-Wallis test revealed no significant differences in hyperdrive ratings among manufacturers, confirming the results from the ANOVA.

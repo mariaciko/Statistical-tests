@@ -1,0 +1,20 @@
+
+Call:
+lm(formula = hyperdrive_rating ~ max_atmosphering_speed, data = df_corr)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-1.0100 -0.4478 -0.1369  0.3035  2.3035 
+
+Coefficients:
+                         Estimate Std. Error t value Pr(>|t|)    
+(Intercept)             4.1216003  0.7776355   5.300 5.56e-06 ***
+max_atmosphering_speed -0.0024872  0.0007352  -3.383  0.00171 ** 
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 0.7301 on 37 degrees of freedom
+  (3 observations deleted due to missingness)
+Multiple R-squared:  0.2363,	Adjusted R-squared:  0.2156 
+F-statistic: 11.45 on 1 and 37 DF,  p-value: 0.001705
+

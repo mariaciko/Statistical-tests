@@ -1,0 +1,13 @@
+Interpretation:
+1. ANOVA Results: The ANOVA test indicated no significant difference in hyperdrive ratings across different manufacturers (p-value > 0.05).
+2. Pairwise T-tests: Pairwise t-tests further examine differences between each pair of manufacturers. Adjustments with Bonferroni and Benjamini-Hochberg methods control for false positives due to multiple comparisons.
+3. Kruskal-Wallis Test: Similar to the ANOVA, the Kruskal-Wallis test revealed no significant differences in hyperdrive ratings among manufacturers, confirming the results from the ANOVA.
+
+Correlation and KS Interpretation:
+4. Correlation: Both Pearson and Spearman correlations between hyperdrive rating and max atmosphering speed showed a moderate negative correlation (with the Spearman showing a higher negative correlation), suggesting that as the max atmosphering speed increases, the hyperdrive rating tends to decrease.
+5. KS Test for normality: p-value (0.05322) slightly bigger than 0.05, indicating that the hyperdrive ratings do not strictly follow a normal distribution.
+
+ Linear regression Interpretation:
+6. There is still a moderately indirect relationship between max atmosphering speed and hyperdrive rating, confirming our previous findings with the Pearson and Spearman correlations.
+However, the p-value < 0.05, meaning there is significance in max atmosphering speed determining hyperdrive rating.
+Regression is more appropriate when you want to make predictions of the dependent variable based on the independent variable, and see how changing the latter affects the first.

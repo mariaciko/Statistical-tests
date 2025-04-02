@@ -1,0 +1,10 @@
+
+	Spearman's rank correlation rho
+
+data:  df_corr$hyperdrive_rating and df_corr$max_atmosphering_speed
+S = 15341, p-value = 0.0002635
+alternative hypothesis: true rho is not equal to 0
+sample estimates:
+      rho 
+-0.552725 
+

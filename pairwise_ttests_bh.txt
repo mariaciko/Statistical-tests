@@ -1,0 +1,55 @@
+
+	Pairwise comparisons using t tests with pooled SD 
+
+data:  df_filtered$hyperdrive_rating and df_filtered$manufacturer 
+
+                                            Colla Designs, Phlac-Arphocc Automata Industries
+Corellian Engineering Corporation           0.93                                            
+Free Dac Volunteers Engineering Corps       0.93                                            
+Huppla Pasa Tisc Shipwrights Collective     0.93                                            
+Kuat Drive Yards                            0.91                                            
+Kuat Systems Engineering                    0.91                                            
+Sienar Fleet Systems                        1.00                                            
+Theed Palace Space Vessel Engineering Corps 0.93                                            
+                                            Corellian Engineering Corporation
+Corellian Engineering Corporation           -                                
+Free Dac Volunteers Engineering Corps       0.93                             
+Huppla Pasa Tisc Shipwrights Collective     1.00                             
+Kuat Drive Yards                            0.91                             
+Kuat Systems Engineering                    0.93                             
+Sienar Fleet Systems                        0.93                             
+Theed Palace Space Vessel Engineering Corps 0.93                             
+                                            Free Dac Volunteers Engineering Corps
+Corellian Engineering Corporation           -                                    
+Free Dac Volunteers Engineering Corps       -                                    
+Huppla Pasa Tisc Shipwrights Collective     0.93                                 
+Kuat Drive Yards                            0.91                                 
+Kuat Systems Engineering                    0.93                                 
+Sienar Fleet Systems                        0.91                                 
+Theed Palace Space Vessel Engineering Corps 0.93                                 
+                                            Huppla Pasa Tisc Shipwrights Collective
+Corellian Engineering Corporation           -                                      
+Free Dac Volunteers Engineering Corps       -                                      
+Huppla Pasa Tisc Shipwrights Collective     -                                      
+Kuat Drive Yards                            0.91                                   
+Kuat Systems Engineering                    0.93                                   
+Sienar Fleet Systems                        0.93                                   
+Theed Palace Space Vessel Engineering Corps 0.93                                   
+                                            Kuat Drive Yards Kuat Systems Engineering
+Corellian Engineering Corporation           -                -                       
+Free Dac Volunteers Engineering Corps       -                -                       
+Huppla Pasa Tisc Shipwrights Collective     -                -                       
+Kuat Drive Yards                            -                -                       
+Kuat Systems Engineering                    0.91             -                       
+Sienar Fleet Systems                        0.91             0.91                    
+Theed Palace Space Vessel Engineering Corps 0.91             0.93                    
+                                            Sienar Fleet Systems
+Corellian Engineering Corporation           -                   
+Free Dac Volunteers Engineering Corps       -                   
+Huppla Pasa Tisc Shipwrights Collective     -                   
+Kuat Drive Yards                            -                   
+Kuat Systems Engineering                    -                   
+Sienar Fleet Systems                        -                   
+Theed Palace Space Vessel Engineering Corps 0.93                
+
+P value adjustment method: BH 
